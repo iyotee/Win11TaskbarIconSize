@@ -12,7 +12,7 @@ echo ***     0 : Small icons       ***
 echo ***     1 : Normal icons      ***
 echo ***     2 : Big icons         ***
 echo ***                           ***
-echo ***    Author: J.Noverraz     ***
+echo ***                           ***
 echo ***  Created on: 2021.09.27   ***
 echo ***                           ***
 echo *********************************
